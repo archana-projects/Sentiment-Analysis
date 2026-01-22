@@ -35,4 +35,4 @@ Overall, this repository serves as a practical demonstration of sentiment analys
 - Sentiment Classification Models  
 - Model Evaluation and Insights
 
-
+<img width="900" height="586" alt="Image" src="https://github.com/user-attachments/assets/e7b9395b-e2e6-449c-b070-cf5c7d89ab36" />
